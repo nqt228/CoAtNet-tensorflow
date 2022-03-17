@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Tensorflow Keras implementation of CoAtNet refer from this repo [this](https://github.com/chinhsuanwu/coatnet-pytorch)
+This is a Tensorflow Keras implementation of CoAtNet refer from [this](https://github.com/chinhsuanwu/coatnet-pytorch) repo.
 
 
 ![img](https://user-images.githubusercontent.com/67839539/138133065-337bb5ac-3dca-4ce8-af51-990c5ff23316.png)
