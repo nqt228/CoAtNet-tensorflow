@@ -56,10 +56,6 @@ class FeedForward(tf.keras.layers.Layer):
 		return self.net(x)
 
 
-
-
-
-
 class MBConv(tf.keras.layers.Layer):
 	def __init__(self, inp, oup, image_size, downsample = False, expansion = 4):
 		super().__init__()
