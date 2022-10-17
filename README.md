@@ -17,7 +17,7 @@ This is a Tensorflow Keras implementation of CoAtNet refer from [this](https://g
   journal={arXiv preprint arXiv:2106.04803},
   year={2021}
 }
-}
+
 ```
 
 ## REFERENCE
