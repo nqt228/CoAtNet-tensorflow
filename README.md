@@ -12,17 +12,18 @@ This is a Tensorflow Keras implementation of CoAtNet refer from [this](https://g
 
 ```bibtex
 @article{dai2021coatnet,
-  title={YOLO-Z: Improving small object detection in YOLOv5 for
-autonomous vehicles},
-  author={Aduen Benjumea, Izzeddin Teeti, Fabio Cuzzolin, Andrew Bradley,},
-  journal={arXiv preprint arXiv:2112.11798},
+  title={CoAtNet: Marrying Convolution and Attention for All Data Sizes},
+  author={Dai, Zihang and Liu, Hanxiao and Le, Quoc V and Tan, Mingxing},
+  journal={arXiv preprint arXiv:2106.04803},
   year={2021}
+}
 }
 ```
 
 ## REFERENCE
 
-[1]https://arxiv.org/pdf/2112.11798.pdf
+[1]https://arxiv.org/pdf/2106.04803.pdf
+
 
 
 
